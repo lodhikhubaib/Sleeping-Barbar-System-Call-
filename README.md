@@ -1,7 +1,5 @@
 # Sleeping-Barbar-System-Call-
-Operating System Project
-
-Operating System Project
+# Operating System Project
 
 Sleeping Barber Problem(System Call)
 
@@ -45,6 +43,7 @@ Then in asm_linkage functin, it acts like a main function. Mutex is initialized.
 Results:
 
 Below are the attached snap shot of our project
+
 ![image](https://github.com/lodhikhubaib/Sleeping-Barbar-System-Call-/assets/88384068/07e9d2d1-e15c-45b2-8d6b-781068833730)
 
 ![image](https://github.com/lodhikhubaib/Sleeping-Barbar-System-Call-/assets/88384068/9ae82f3e-0e75-4d11-86ee-628311949f2c)
